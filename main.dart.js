@@ -81732,7 +81732,7 @@ bQ(){this.cN()
 this.cs()
 this.iU()}}
 A.J_.prototype={
-K(a){var s=null,r=t.w,q=A.by(a,s,r).w.a.a<600,p=q?0.8:1,o=q?0.4:1
+K(a){var s=null,r=t.w,q=A.by(a,s,r).w.a.a<600,p=q?0.8:1,o=q?0.5:1
 r=A.by(a,s,r).w
 q=t.p
 return A.fK(s,A.iz(A.b([A.dX(A.b([A.cO("SoftRise",s,s,s,A.dA().$4$color$fontSize$fontWeight$letterSpacing(B.j,36,B.aL,2).EN(24*p),s,s),B.Md,A.cO("Innovation Meets Growth",s,s,s,A.dA().$3$color$fontSize$fontWeight(B.j,24,B.be).EN(14*p),s,s),B.Mc,A.cO("\xa9 SoftRise 2025 All rights reserved.",s,s,s,A.e2(s,s,B.j,s,s,s,s,s,s,s,s,16,s,s,B.P,s,1.5,!0,s,1.7,s,s,s,s,s,s).EN(12*p),s,s)],q),B.bH,B.Q,B.a0),A.o7(A.iz(this.a1v(o),B.O,B.je,B.a0),1)],q),B.O,B.fW,B.a0),B.q,s,B.zo,s,s,s,s,new A.aT(40,20,60,20),s,s,r.a.a)},
@@ -81771,7 +81771,7 @@ r===$&&A.a()
 r.aq(0)
 s.a_O()},
 OT(){this.z=A.NI(B.e6,new A.akS(this))},
-K(a){var s=A.by(a,null,t.w).w.a,r=t.p,q=A.dX(A.b([this.Et(s),A.bG(null,25,null),A.atF(400,400,200,450,130,150,100,100)],r),B.O,B.Q,B.a0),p=A.iz(A.b([A.o7(this.Et(s),1),A.atF(400,500,270,520,200,250,150,150)],r),B.bI,B.fW,B.a0)
+K(a){var s=A.by(a,null,t.w).w.a,r=t.p,q=A.dX(A.b([this.Et(s),A.bG(null,25,null),A.atF(380,400,200,450,130,150,100,100)],r),B.O,B.Q,B.a0),p=A.iz(A.b([A.o7(this.Et(s),1),A.atF(400,500,270,520,200,250,150,150)],r),B.bI,B.fW,B.a0)
 return A.Jh(B.l,B.ch,B.ci,A.iz(A.b([A.o7(this.Et(s),1),A.atF(400,500,270,520,200,250,150,150)],r),B.bI,B.fW,B.a0),q,s.a*0.1,p)},
 Et(a){var s,r,q=this,p=null,o=q.QS("Welcome to SoftRise",A.dA().$4$color$fontSize$fontWeight$letterSpacing(B.j,36,B.aL,2),1400),n=A.bG(p,45,p),m=q.QS("Your partner in innovative software solutions for",A.dA().$3$color$fontSize$fontWeight(B.j,24,B.be),1400),l=q.f
 l===$&&A.a()
